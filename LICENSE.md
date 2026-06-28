@@ -1,4 +1,4 @@
-# 
+# 独家 JetBrains IntelliJ IDEA 工具 Mac OS版 | 更新 JetBrains IntelliJ IDEA 工具 PC Windows版。集成 Git集成 和 提交历史，跨平台性能最大化。
 
 
 
